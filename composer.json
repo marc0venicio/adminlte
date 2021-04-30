@@ -1,7 +1,7 @@
 {
-    "name": "map-os/mapos",
+    "name": "marcos/marcos",
     "type": "project",
-    "description": "Map-OS - Sistema de Controle de Ordens de Serviço ",
+    "description": "Sistema de Controle",
     "keywords": [
         "framework",
         "laravel",
